@@ -1,4 +1,4 @@
-## [link on project Shopping Basket](https://sl101.github.io/TEL-RAN_REACT-hw)
+## [link on project](https://sl101.github.io/TelRan-shopbasket)
 
 ## Задача:
 
