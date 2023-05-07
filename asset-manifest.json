@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TEL-RAN_REACT-hw/static/css/main.2ea0c530.css",
+    "main.js": "/TEL-RAN_REACT-hw/static/js/main.a12e8764.js",
+    "index.html": "/TEL-RAN_REACT-hw/index.html",
+    "main.2ea0c530.css.map": "/TEL-RAN_REACT-hw/static/css/main.2ea0c530.css.map",
+    "main.a12e8764.js.map": "/TEL-RAN_REACT-hw/static/js/main.a12e8764.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ea0c530.css",
+    "static/js/main.a12e8764.js"
+  ]
+}
