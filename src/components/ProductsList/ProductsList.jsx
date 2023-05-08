@@ -4,7 +4,7 @@ import { ProductItem } from '../';
 
 export const ProductsList = () => {
 	const products = useSelector((store) => store.products);
-
+console.log(products);
 	return (
 		<ul className={s.list}>
 			{products.length !== 0 ? (
